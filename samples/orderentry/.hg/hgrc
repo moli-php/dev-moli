@@ -1,0 +1,5 @@
+[paths]
+default = ssh://sddadmin@192.168.126.128//var/www/orderentry
+
+[ui]
+username = Romulo.Soriano.Jr

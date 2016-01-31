@@ -1,0 +1,11 @@
+.btn_hover:hover {background-color:#ccc}
+.answer_picked {background-color:#428bca}
+.green {color:green}
+.red {color:red}
+.this_hide {display:none;}
+.wrong_answer {border: 2px solid #FFC7DD}
+.right_answer {border: 2px solid #69d461}
+.no_answer {border: 2px solid #FCEA9A}
+.default_background { background-color:gray}
+.box {display:inline-block;padding:5px 5px}
+.hide_me{display:none;}
