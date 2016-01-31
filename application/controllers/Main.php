@@ -12,7 +12,6 @@ class Main extends CI_Controller {
 		$title = $this->uri->segment(2) ? ucfirst($this->uri->segment(2)) : 'Home';
 		$this->data['title'] = 'Moli Dev Site | ' . $title;
 		$this->data['page'] = strtolower($this->uri->segment(2));
-
 	}
 
 	public function index()

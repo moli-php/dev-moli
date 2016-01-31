@@ -9,8 +9,6 @@ class Main extends CI_Controller {
 		$this->data['base_url'] = base_url();
 		$this->data['title'] = 'Moli Dev Site';
 		$this->data['page'] = strtolower($this->uri->segment(2));
-
-
 	}
 	
 	public function test(){
