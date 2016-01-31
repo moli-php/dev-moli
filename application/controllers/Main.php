@@ -31,6 +31,6 @@ class Main extends CI_Controller {
 	}
 
 	private function test() {
-		echo 'hello world';
+		echo 'hello world1';
 	}
 }
