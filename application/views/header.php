@@ -5,10 +5,9 @@
 	<link rel="shortcut icon" href="<?php echo $base_url; ?>assets/img/favicon.ico" />
 	<title><?php echo $title; ?></title>
 	<link rel="stylesheet" type="text/css" href="<?php echo $base_url; ?>assets/libs/bootstrap/css/bootstrap.min.css" />
-	<link rel="stylesheet" type="text/css" href="<?php echo $base_url; ?>assets/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="<?php echo $base_url; ?>assets/css/style.min.css" />
 	<script src="<?php echo $base_url; ?>assets/libs/jquery-1.7.2.js"></script>
 	<script src="<?php echo $base_url; ?>assets/libs/bootstrap/js/bootstrap.min.js"></script>
-	<script src="<?php echo $base_url; ?>assets/js/js.js"></script>
 </head>
 <body>
 <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">

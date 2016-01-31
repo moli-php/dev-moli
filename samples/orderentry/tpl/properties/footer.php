@@ -36,7 +36,7 @@
 <!-- hidden path -->
 <div class="hide" id="base_url"><?php echo BASE_URL; ?></div>
 <!-- api script -->
-<?php echo "<script src='".BASE_URL."/assets/js/api.js'></script>"; ?>
+<?php echo "<script src='".BASE_URL."/assets/js/api.min.js'></script>"; ?>
 
 </body>
 </html>

@@ -2,11 +2,11 @@
 <html data-ng-app="callingcardApp">
 <head>
 <link href="libs/bootstrap/css/bootstrap.css" rel="stylesheet" />
-<link href="libs/simple-form-validation/simple-form-validation.css" rel="stylesheet" />
-<link href="css/style.css" rel="stylesheet" />
+<link href="libs/simple-form-validation/simple-form-validation.min.css" rel="stylesheet" />
+<link href="css/style.min.css" rel="stylesheet" />
 <script src="libs/jquery-1.7.2.js"></script>
-<script src="libs/bootstrap/js/bootstrap.js"></script>
-<script src="libs/simple-form-validation/simple-form-validation.js"></script>
+<script src="libs/bootstrap/js/bootstrap.min.js"></script>
+<script src="libs/simple-form-validation/simple-form-validation.min.js"></script>
 </head>
 <body>
 <nav class="navbar navbar-default" ng-controller="navController">

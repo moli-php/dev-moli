@@ -1,0 +1,5 @@
+.git
+node_modules/*
+Gruntfile.js
+package.json
+README.md

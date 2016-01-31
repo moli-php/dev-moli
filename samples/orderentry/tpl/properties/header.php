@@ -3,11 +3,11 @@
 <head>
 <?php
 echo "
-	<link rel='stylesheet' href='".BASE_URL."/assets/libs/bootstrap/css/bootstrap.css' />
-	<script src='".BASE_URL."/assets/js/jquery-1.7.2.js'></script>
-	<script src='".BASE_URL."/assets/libs/bootstrap/js/bootstrap.js'></script>
-	<link rel='stylesheet' href='".BASE_URL."/assets/css/style.css' />
-	<script src='".BASE_URL."/assets/js/js.js'></script>
+	<link rel='stylesheet' href='".BASE_URL."/assets/libs/bootstrap/css/bootstrap.min.css' />
+	<script src='".BASE_URL."/assets/js/jquery-1.7.2.min.js'></script>
+	<script src='".BASE_URL."/assets/libs/bootstrap/js/bootstrap.min.js'></script>
+	<link rel='stylesheet' href='".BASE_URL."/assets/css/style.min.css' />
+	<script src='".BASE_URL."/assets/js/js.min.js'></script>
 ";
 ?>
 </head>
