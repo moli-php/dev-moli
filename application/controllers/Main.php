@@ -29,4 +29,8 @@ class Main extends CI_Controller {
 		$this->data['content'] = __FUNCTION__;
 		$this->load->view('base',$this->data);
 	}
+
+	private function test() {
+		echo 'hello world';
+	}
 }
